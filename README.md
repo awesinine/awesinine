@@ -1,4 +1,4 @@
-![Is it though?](pictures/this_is_fine_pixel.jpg)
+![Is it though?](awesinine/pictures/this_is_fine_pixel.jpg)
 
 <!--
 **awesinine/awesinine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
