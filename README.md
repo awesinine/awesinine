@@ -1,4 +1,5 @@
-![Is it though?](https://github.com/awesinine/awesinine/blob/master/pictures/this_is_fine_pixel.jpg)
+[![Is it though?](https://github.com/awesinine/awesinine/blob/master/pictures/this_is_fine_pixel.jpg)](https://www.linkedin.com/in/ryanmorten/)
+
 
 <!--
 **awesinine/awesinine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
